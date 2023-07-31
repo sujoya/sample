@@ -7,3 +7,6 @@ print(c-d)
 e=3
 f=7
 print(e*f)
+r=3
+t=4
+print(r**4)
