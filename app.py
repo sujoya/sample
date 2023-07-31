@@ -10,3 +10,5 @@ print(e*f)
 r=3
 t=4
 print(r**4)
+print(" hi this is hassan shah i wnat to show you something ")
+print("my intrested in data scicene field")
