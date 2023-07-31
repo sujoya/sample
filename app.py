@@ -12,3 +12,5 @@ t=4
 print(r**4)
 print(" hi this is hassan shah i wnat to show you something ")
 print("my intrested in data scicene field")
+print(" my age is 21 and i am study in riphah university ")
+print(" i pass my 6 semester and now i am studying in 7 semester")
